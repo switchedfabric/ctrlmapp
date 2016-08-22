@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/local/emapi-800/classes/antlr-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/local/emapi-800/classes/avalon-framework-4.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/local/emapi-800/classes/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/local/emapi-800/classes/concurrent-1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/local/emapi-800/classes/emapi.jar"/>
+	<classpathentry kind="lib" path="C:/local/emapi-800/classes/jacorb.jar"/>
+	<classpathentry kind="lib" path="C:/local/emapi-800/classes/jbcl.jar"/>
+	<classpathentry kind="lib" path="C:/local/emapi-800/classes/log4j-1.2.8.jar"/>
+	<classpathentry kind="lib" path="C:/local/emapi-800/classes/logkit-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/local/emapi-800/classes/NamingViewer.jar"/>
+	<classpathentry kind="lib" path="C:/local/emapi-800/classes/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="C:/local/emapi-800/classes/xml-apis.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
