@@ -14,5 +14,6 @@
 	<classpathentry kind="lib" path="C:/local/emapi-800/classes/NamingViewer.jar"/>
 	<classpathentry kind="lib" path="C:/local/emapi-800/classes/xercesImpl.jar"/>
 	<classpathentry kind="lib" path="C:/local/emapi-800/classes/xml-apis.jar"/>
+	<classpathentry kind="lib" path="C:/Users/wroos.SHOPRITE/aws-java-sdk/1.11.27/lib/aws-java-sdk-1.11.27.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
